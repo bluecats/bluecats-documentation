@@ -6,6 +6,10 @@
 Welcome to BlueCats Documentation's documentation!
 ==================================================
 
+
+Indices and tables
+==================
+
 .. toctree::
    :maxdepth: 2
    :caption: Beacons:
@@ -22,3 +26,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+   design
+   Theme <https://sphinx-rtd-theme.readthedocs.io/en/latest/>
