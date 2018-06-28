@@ -20,10 +20,19 @@ Indices and tables
 ==================
 
 .. toctree::
+   :caption: Beacons
    :maxdepth: -1
-   :caption: Beacons:
-
+   
    beacons/beacon-guides
+   beacons/beacons101
+
+
+.. toctree::
+   :caption: Beacons
+   :maxdepth: 2
+   
+   beacons/beacon-guides
+   beacons/beacons101
 
 
 Indices and tables
